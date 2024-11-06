@@ -5,7 +5,7 @@
   "description": "Manage daily tasks with notifications",
   "permissions": ["alarms", "notifications", "storage"],
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "index.html"
   },
   "icons": {
     "48": "icon48.png",
