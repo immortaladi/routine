@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Daily Routine",
+  "version": "1.0",
+  "description": "Manage daily tasks with notifications",
+  "permissions": ["alarms", "notifications", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
